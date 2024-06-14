@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I am Prateek Kumar, a passionate and dedicated B.T
 
 ## Skills
 
-- **Languages:** JavaScript, HTML, CSS
+- **Languages:** JavaScript, HTML, CSS, C, C++, R, Matlab, Python, Netlogo
  <!---
 - **Frameworks and Libraries:** (List any frameworks or libraries you are familiar with or learning, such as React, Node.js, etc.) -->
 - **Tools and Platforms:** Git, GitHub, VS Code
