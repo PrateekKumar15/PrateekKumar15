@@ -38,7 +38,7 @@ I am committed to continuous learning and improvement. Here are some of the reso
 ## Connect with Me
 
 - **Email:** [prateekkumar72007@gmail.com](mailto:your-pratekkumar72007@gmail.com)
-- **LinkedIn:** [www.linkedin.com/in/prateek-kumar-m07-d15-y2003](link-to-www.linkedin.com/in/prateek-kumar-m07-d15-y2003)
+- **LinkedIn:** [www.linkedin.com/in/prateek-kumar-m07-d15-y2003](link-to-www.linkedin.com/in/prateek-kumar-m07-d15-y2003/)
 <!--
 - **Twitter:** [Your Twitter Profile](link-to-twitter) -->
 
