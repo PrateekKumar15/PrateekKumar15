@@ -1,6 +1,6 @@
 # About Me:
 <img align="right" alt="Coding" width="400" height="270" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-B.Tech Student at IIT Jodhpur CodingWelcome to my GitHub profile! I am Prateek Kumar, a passionate and dedicated B.Tech student from IIT Jodhpur with a keen interest in web development. I am currently focusing on learning the latest approaches and methods in web development, with a particular emphasis on JavaScript.<br><br>Name: Prateek Kumar<br>Education: B.Tech, IIT Jodhpur<br>Interests: Web Development, JavaScript, Software Engineering<br>Current Learning Focus: JavaScript and modern web development practices like react
+Welcome to my GitHub profile! I am Prateek Kumar, a passionate and dedicated B.Tech student from IIT Jodhpur with a keen interest in web development. I am currently focusing on learning the latest approaches and methods in web development, with a particular emphasis on JavaScript.<br><br>Name: Prateek Kumar<br>Education: B.Tech, IIT Jodhpur<br>Interests: Web Development, JavaScript, Software Engineering<br>Current Learning Focus: JavaScript and modern web development practices like react
 
 
 ## 🌐 Contact:
