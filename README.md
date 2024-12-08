@@ -18,6 +18,8 @@ Welcome to my GitHub profile! I am Prateek Kumar, a passionate and dedicated B.T
 [![](https://visitcount.itsvg.in/api?id=PrateekKumar15&icon=1&color=2)](https://visitcount.itsvg.in)
 ---
 
+![Snake animation](https://raw.githubusercontent.com/PrateekKumar15/PrateekKumar15/output/github-contribution-grid-snake-dark.svg)
+
 Thank you for visiting my GitHub profile!
 
 
