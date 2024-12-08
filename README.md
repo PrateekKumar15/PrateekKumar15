@@ -84,7 +84,7 @@ Welcome to my GitHub profile! I am Prateek Kumar, a passionate and dedicated B.T
 <hr/>
 
 
-Thank you for visiting my GitHub profile!
-
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<p align="center">
 
 
