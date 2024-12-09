@@ -1,15 +1,34 @@
-# About Me:
-<img align="right" alt="Coding" width="400" height="270" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-Welcome to my GitHub profile! I am Prateek Kumar, a passionate and dedicated B.Tech student from IIT Jodhpur with a keen interest in web development. I am currently focusing on learning the latest approaches and methods in web development, with a particular emphasis on JavaScript.<br><br>Name: Prateek Kumar<br>Education: B.Tech, IIT Jodhpur<br>Interests: Web Development, JavaScript, Software Engineering<br>Current Learning Focus: JavaScript and modern web development practices like react
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=60&pause=1000&center=true&vCenter=true&random=true&width=800&height=200&lines=Hii+%F0%9F%91%8Bthere+%2C+I'm+Prateek+Kumar)](https://git.io/typing-svg)
+<p align= "center">
+      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="300" alt="cplusplus logo"  />
+       </p>
 
+ I am a pre-final year B.Tech student at **Indian Institute of Technology, Jodhpur**, specializing in Computer Science and Engineering. I am passionate about building efficient and elegant web applications.
 
-## 🌐 Contact:
-[![Email](https://img.shields.io/badge/Email-blue?style=flat&logo=gmail)](mailto:prateekkumar72007@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prateek_kumar_15)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prateek-kumar-m07-d15-y2003/) 
-<hr/>
+---
 
-# 💻 Tech Stack:
+### About Me
+
+- 💻 **Full-Stack Web Developer** with experience in:
+  - HTML
+  - CSS
+  - JavaScript
+  - React
+  - Express
+  - NPM Libraries
+ 
+  
+       
+ 
+
+- 🌱 I believe in continuous learning and love exploring new libraries, frameworks, and technologies that make development easier and more enjoyable.
+
+- ⚽ When I'm not coding, you might find me playing cricket and video games, designing creative projects, or exploring new trends in tech!
+
+---
+
+### Skills
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -64,10 +83,24 @@ Welcome to my GitHub profile! I am Prateek Kumar, a passionate and dedicated B.T
 <br/>
 <hr/>
 
+---
+
+### Let's Connect
+
+Feel free to explore my repositories and connect with me for collaborations or discussions!
+
+## 🌐 Contact:
+[![Email](https://img.shields.io/badge/Email-blue?style=flat&logo=gmail)](mailto:prateekkumar72007@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prateek_kumar_15)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prateek-kumar-m07-d15-y2003/) 
+<hr/>
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PrateekKumar15&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PrateekKumar15&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrateekKumar15&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PrateekKumar15&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true" /><br/>
+  </p>
+ <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrateekKumar15&theme=nightowl&hide_border=false" />                       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrateekKumar15&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /> </p>
+</p>
 
 ![](https://visitcount.itsvg.in/api?id=PrateekKumar15&icon=1&color=2)
 
