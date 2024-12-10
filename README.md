@@ -99,7 +99,8 @@ Feel free to explore my repositories and connect with me for collaborations or d
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PrateekKumar15&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true" /><br/>
   </p>
- <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrateekKumar15&theme=nightowl&hide_border=false" />                       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrateekKumar15&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /> </p>
+ <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrateekKumar15&theme=nightowl&hide_border=false" /> 
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrateekKumar15&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /> </p>
 </p>
 
 ![](https://visitcount.itsvg.in/api?id=PrateekKumar15&icon=1&color=2)
