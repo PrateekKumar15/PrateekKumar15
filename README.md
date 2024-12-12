@@ -96,10 +96,10 @@ Feel free to explore my repositories and connect with me for collaborations or d
 <hr/>
 
 # 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrateekKumar15&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true" /><br/>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrateekKumar15&theme=nightowl&hide_border=false"/> 
+  <br/>
   </p>
- <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrateekKumar15&theme=nightowl&hide_border=false" /> 
+ <p align="center"> 
        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrateekKumar15&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /> </p>
 </p>
 
