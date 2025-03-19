@@ -16,6 +16,9 @@
   - React
   - Express
   - NPM Libraries
+  - Node
+  - MongoDB
+    
  
   
        
@@ -89,17 +92,18 @@ Feel free to explore my repositories and connect with me for collaborations or d
 
 ## 🌐 Contact:
 [![Email](https://img.shields.io/badge/Email-blue?style=flat&logo=gmail)](mailto:prateekkumar72007@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prateek_kumar_15)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prateek-kumar-m07-d15-y2003/) 
 <hr/>
 
 # 📊 GitHub Stats:
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrateekKumar15&theme=nightowl&hide_border=false"/> 
+<p align="center"> <img src="https://nirzak-streak-stats.vercel.app/?user=PrateekKumar15&theme=radical&hide_border=false"/> 
   <br/>
   </p>
  <p align="center"> 
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrateekKumar15&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /> </p>
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrateekKumar15&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /> </p>
 </p>
+
+
 
 ![](https://visitcount.itsvg.in/api?id=PrateekKumar15&icon=1&color=2)
 
@@ -109,7 +113,7 @@ Feel free to explore my repositories and connect with me for collaborations or d
 ![Snake animation](https://raw.githubusercontent.com/PrateekKumar15/PrateekKumar15/output/github-contribution-grid-snake-dark.svg)
 <br/>
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 <br/>
 
 
