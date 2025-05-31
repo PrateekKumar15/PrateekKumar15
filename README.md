@@ -7,23 +7,7 @@
 
 ---
 
-### About Me
-
-- 💻 **Full-Stack Web Developer** with experience in:
-  - HTML
-  - CSS
-  - JavaScript
-  - React
-  - Express
-  - NPM Libraries
-  - Node
-  - MongoDB
-    
- 
-  
-       
- 
-
+### About Me 
 - 🌱 I believe in continuous learning and love exploring new libraries, frameworks, and technologies that make development easier and more enjoyable.
 
 - ⚽ When I'm not coding, you might find me playing cricket and video games, designing creative projects, or exploring new trends in tech!
