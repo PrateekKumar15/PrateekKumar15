@@ -92,6 +92,33 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
+## 🚀 My Projects
+
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| [bruce](https://github.com/PrateekKumar15/bruce) | A TypeScript-based project. | TypeScript | [Repo](https://github.com/PrateekKumar15/bruce) |
+| [adgen](https://github.com/unitedtechlab/adgen) | Social Media Post Generation Frontend. | TypeScript, CSS, JavaScript | [Repo](https://github.com/unitedtechlab/adgen) |
+| [Silque](https://github.com/PrateekKumar15/Silque) | MERN stack E-commerce app. | JavaScript | [Repo](https://github.com/PrateekKumar15/Silque) |
+
+---
+
+### Example with Badges
+
+**Silque**  
+![JavaScript](https://img.shields.io/badge/JavaScript-100%25-yellow)  
+Silque is a MERN stack E-commerce app.  
+[GitHub Repo](https://github.com/PrateekKumar15/Silque)
+
+**adgen**  
+![TypeScript](https://img.shields.io/badge/TypeScript-95.2%25-blue) ![CSS](https://img.shields.io/badge/CSS-4.6%25-blueviolet)  
+Social Media Post Generation Frontend.  
+[GitHub Repo](https://github.com/unitedtechlab/adgen)
+
+**bruce**  
+![TypeScript](https://img.shields.io/badge/TypeScript-99.1%25-blue)  
+A TypeScript-based project.  
+[GitHub Repo](https://github.com/PrateekKumar15/bruce)
+
 ---
 
 ### Let's Connect
