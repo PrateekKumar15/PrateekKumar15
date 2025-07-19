@@ -127,7 +127,7 @@ Feel free to explore my repositories and connect with me for collaborations or d
 
 ## 🌐 Contact:
 [![Email](https://img.shields.io/badge/Email-blue?style=flat&logo=gmail)](mailto:prateekkumar72007@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prateek-kumar-m07-d15-y2003/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prateekkumar15/) 
 <hr/>
 
 # 📊 GitHub Stats:
