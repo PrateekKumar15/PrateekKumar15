@@ -3,7 +3,7 @@
       <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="300" alt="cplusplus logo"  />
        </p>
 
- I am a pre-final year B.Tech student at **Indian Institute of Technology, Jodhpur**, specializing in Computer Science and Engineering. I am passionate about building efficient and elegant web applications.
+ I am a final year B.Tech student at **Indian Institute of Technology, Jodhpur**, specializing in Computer Science and Engineering. I am passionate about building efficient and elegant web applications.
 
 ---
 
