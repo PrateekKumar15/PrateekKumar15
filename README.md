@@ -49,8 +49,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/redux/764ABC" height="40" alt="redux logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/slack/4A154B" height="40" alt="slack logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
@@ -88,32 +86,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-## 🚀 My Projects
-
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| [bruce](https://github.com/PrateekKumar15/bruce) | A TypeScript-based project. | TypeScript | [Repo](https://github.com/PrateekKumar15/bruce) |
-| [adgen](https://github.com/unitedtechlab/adgen) | Social Media Post Generation Frontend. | TypeScript, CSS, JavaScript | [Repo](https://github.com/unitedtechlab/adgen) |
-| [Silque](https://github.com/PrateekKumar15/Silque) | MERN stack E-commerce app. | JavaScript | [Repo](https://github.com/PrateekKumar15/Silque) |
 
 ---
 
-### Example with Badges
+### My Projects
 
 **Silque**  
-![JavaScript](https://img.shields.io/badge/JavaScript-100%25-yellow)  
 Silque is a MERN stack E-commerce app.  
 [GitHub Repo](https://github.com/PrateekKumar15/Silque)
 
-**adgen**  
-![TypeScript](https://img.shields.io/badge/TypeScript-95.2%25-blue) ![CSS](https://img.shields.io/badge/CSS-4.6%25-blueviolet)  
+**Adgen**  
 Social Media Post Generation Frontend.  
 [GitHub Repo](https://github.com/unitedtechlab/adgen)
-
-**bruce**  
-![TypeScript](https://img.shields.io/badge/TypeScript-99.1%25-blue)  
-A TypeScript-based project.  
-[GitHub Repo](https://github.com/PrateekKumar15/bruce)
 
 ---
 
@@ -122,14 +106,13 @@ A TypeScript-based project.
 Feel free to explore my repositories and connect with me for collaborations or discussions!
 
 ## 🌐 Contact:
-[![Email](https://img.shields.io/badge/Email-blue?style=flat&logo=gmail)](mailto:prateekkumar72007@gmail.com)
+[![Email](https://img.shields.io/badge/Email-blue?style=flat&logo=gmail)](mailto:prateekkumar15.work@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prateekkumar15/) 
 <hr/>
 
 # 📊 GitHub Stats:
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=PrateekKumar15&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=100&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PrateekKumar15&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=codeSTACKr&hide_border=true&order=2&custom_title=My%20loved%20languags" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrateekKumar15&radius=16&theme=elegant&area=true&order=5&hide_border=true&custom_title=Discipline%20Chart" height="300" alt="activity-graph graph"  />
 </div>
 
