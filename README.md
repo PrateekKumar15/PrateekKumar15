@@ -39,7 +39,7 @@
 
 const prateek = {
     role       : "Technical Lead @ HCLTech",
-    education  : "B.Tech — IIT Jodhpur (CSE)",
+    education  : "B.Tech — IIT Jodhpur (ES)",
     location   : "India 🇮🇳",
     passions   : ["Building scalable web apps", "Clean architecture",
                   "Performance optimization", "System design"],
