@@ -3,11 +3,11 @@
 ```
 ╔════════════════════════════════════════════════════════════════════════════════╗
 ║                                                                                ║
-║                 ╔═╗╔═╗╔═╗╔╦╗╔═╗╔═╗╦╔═  ╦╔═╦ ╦╔╦╗╔═╗╔═╗                         ║
-║                 ╠═╝╠╦╝╠═╣ ║ ║╣ ║╣ ╠╩╗  ╠╩╗║ ║║║║╠═╣╠╦╝                         ║
-║                 ╩  ╩╚═╩ ╩ ╩ ╚═╝╚═╝╩ ╩  ╩ ╩╚═╝╩ ╩╩ ╩╩╚═                         ║
+║                     ╔═╗╔═╗╔═╗╔╦╗╔═╗╔═╗╦╔═  ╦╔═╦ ╦╔╦╗╔═╗╔═╗                     ║
+║                     ╠═╝╠╦╝╠═╣ ║ ║╣ ║╣ ╠╩╗  ╠╩╗║ ║║║║╠═╣╠╦╝                     ║
+║                     ╩  ╩╚═╩ ╩ ╩ ╚═╝╚═╝╩ ╩  ╩ ╩╚═╝╩ ╩╩ ╩╩╚═                     ║
 ║                                                                                ║
-║            T E C H N I C A L   L E A D  •  H C L T e c h                       ║
+║                  T E C H N I C A L   L E A D  •  H C L T e c h                 ║
 ║                                                                                ║
 ╚════════════════════════════════════════════════════════════════════════════════╝
 ```
@@ -45,7 +45,7 @@ const prateek = {
                   "Performance optimization", "System design"],
     hobbies    : ["🏏 Cricket", "🎮 Video Games", "🎨 Design", "📚 Tech Exploration"],
     philosophy : "Write code that tells a story. Ship products that make an impact.",
-    currentMood: "☕ Caffeinated & Shipping Features"
+    currentMood: "☕ Consuming Tea & Shipping Features"
 };
 ```
 
@@ -297,7 +297,6 @@ drwxr-xr-x  Tools/         VS Code • Postman • Figma • LaTeX • Arduino �
 | 🎯 **Domain** | AI / Social Media / Marketing Automation |
 | 🏗️ **Architecture** | Component-driven, modular frontend with API-first design |
 | 🔑 **Key Features** | AI content generation, template customization, post scheduling, analytics |
-| 🔗 **Repository** | [github.com/unitedtechlab/adgen](https://github.com/unitedtechlab/adgen) |
 
 </details>
 
