@@ -438,7 +438,7 @@ drwxr-xr-x  Tools/         VS Code • Postman • Figma • LaTeX • Arduino �
                /       \               Kernel : JavaScript/TypeScript
               /    ◉    \              Shell  : React • Next.js • Node.js
              /     ‖     \             CPU    : Brain.exe (overclocked)
-            /      ‖      \            Memory : Unlimited Coffee ☕
+            /      ‖      \            Memory : Sky is the limit
            /       ‖       \           GPU    : Pixel-Perfect Rendering
           /        ‖        \          Disk   : Full of side projects
          /         ‖         \         Uptime : Since B.Tech @ IITJ
